@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**xiaoyaosanshi/xiaoyaosanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#自我介绍+软工5问
+| 这个作业属于哪个课程 | <https://edu.cnblogs.com/campus/gdgy/SoftwareEngineering2024/> |
+| 这个作业要求在哪里| <https://edu.cnblogs.com/campus/gdgy/SoftwareEngineering2024/homework/13135> |
+| 这个作业的目标 | <学习Markdown语法与Github的使用、对软件工程有初步认识> |
 
-Here are some ideas to get you started:
+##自我介绍
+我是肖杨，来自湖南衡东，喜欢打桌球,乒乓球,和卡牌游戏。在工作室负责前端开发。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##5个想弄懂的问题
+
+## 我想要解答的问题
+1. 如何有效地使用版本控制系统（如Git）来管理软件开发过程？
+2. 如何选择合适的数据库技术来满足项目的数据存储需求？
+3. 在进行Web开发时，如何确保网站的用户体验和性能？
+4. 如何利用现代的DevOps工具和实践来提高软件开发的效率和质量？
+5. 如何学习和应用新的编程语言和技术，以适应不断变化的技术环境？
+##我想收获的
+1. 理解并应用数据结构和算法，以提高解决问题的效率和效果。
+2. 提高团队协作和沟通能力，以更好地在团队环境中工作。
+3. 学习和理解软件架构设计原则，以更好地组织和管理复杂的代码库。
+4. 掌握软件测试的基本理论和实践，以确保代码的质量和稳定性。
+编辑界面截图
+![](https://img2024.cnblogs.com/blog/3397520/202403/3397520-20240304211614178-2051400485.png)
